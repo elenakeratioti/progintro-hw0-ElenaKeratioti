@@ -1,7 +1,7 @@
 # elenakeratioti.github.io
 byte0: 
-byte1:
-byte2:
+byte1: man supercalifragilisticexpialidocious 
+byte2: 
 byte3:
 byte4:
 byte5:
