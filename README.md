@@ -7,7 +7,7 @@ byte2: grep 'will find' shakespeare.txt
 
 byte3: diff shakespeare.txt shakespeare.modified.txt
 
-byte4: find ~ -name "cup.txt"
+byte4: εκτελούμε την εντολή: find ~ -name "cup.txt" , και μετά ακολουθώντας την πορεία που μας δείχνει, ανοίγουμε διαδοχικά τους φακέλους/αρχεία.
 
 byte5:  byte5@ip-172-31-37-131:~$ cd /tmp
 byte5@ip-172-31-37-131:/tmp$ mkdir elena2
