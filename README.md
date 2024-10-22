@@ -1,5 +1,5 @@
 # elenakeratioti.github.io
-byte0: 
+byte0: Ξεκινώντας με την εντολή ls, εμφανίζονταν διαδοχικά τα αρχεία και στη συνέχεια χρησιμοποιώντας την εντολή cd άνοιγε το κάθε αρχείο μέχρι να φτάσω στον κωδικό 
 byte1: man supercalifragilisticexpialidocious 
 
 byte2: grep 'will find' shakespeare.txt
