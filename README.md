@@ -28,5 +28,6 @@ byte7:
 byte8: pico carriage_return.txt
 
 byte9: cat ./-
-byte10:
+
+byte10: sort names.txt | head
 byte11:
