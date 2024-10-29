@@ -6,8 +6,8 @@ byte2: grep_is_your_friend
 byte3: programmers
 byte4: you_just_found_the_triwizard_cup
 byte5: sdi2400083_1729512482_-753820666_195_134_65_72_36182_22
-byte6:
-byte7:
+byte6: unzipping_was_never_so_easy
+byte7: tar_jokes_don't_
 byte8:no_more_secrets_from_you  
 byte9: filepaths_can_be_useful
 byte10: Adorne
